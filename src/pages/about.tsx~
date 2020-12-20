@@ -24,19 +24,10 @@ const AboutPage: FC = () => {
         <PageTitle>About Us</PageTitle>
         <PageBody>
           <p>
-            Project Unicorn is a virtual co-working space of software developers
-            from around the world working together to create and deploy
-            meaningful software.
+            COVIND is a global registry of COVID-19 individual patient data, and of collective projects exploring them
           </p>
           <p>
-            Our mission is to foster a community where creative individuals can
-            collaborate together to build real world applications. By joining
-            Project Unicorn we hope that we can help improve your technical,
-            communication, management and leadership skills while working
-            collaboratively with other members of the community. Project Unicorn
-            encourages everyone regardless of skills or background to join our
-            community and help build software they are passionate about with
-            others.
+            COVIND accelerates global pooling of individual patient data, and research projects based on them. COVIND has a cool community of doctors, data scientists and other partners excited about working together.
           </p>
         </PageBody>
       </Container>
