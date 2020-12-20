@@ -24,7 +24,7 @@ const AboutPage: FC = () => {
         <PageTitle>About Us</PageTitle>
         <PageBody>
           <p>
-            Chinghub is a global registry of cancer individual patient data, and of collective projects exploring them
+            Chinghub is a precision medicine ( 精准医学 Ching-mi yichué in Chinese) hub bringing together funding, projects, data, technologies, talent, and patient recruitment
           </p>
           <p>
             COVIND accelerates global pooling of individual patient data, and research projects based on them. COVIND has a cool community of doctors, data scientists and other partners excited about working together.

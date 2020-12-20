@@ -24,7 +24,7 @@ const AboutPage: FC = () => {
         <PageTitle>About Us</PageTitle>
         <PageBody>
           <p>
-            COVIND is a global registry of COVID-19 individual patient data, and of collective projects exploring them
+            Chinghub is a global registry of cancer individual patient data, and of collective projects exploring them
           </p>
           <p>
             COVIND accelerates global pooling of individual patient data, and research projects based on them. COVIND has a cool community of doctors, data scientists and other partners excited about working together.
